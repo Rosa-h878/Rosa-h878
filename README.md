@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rosa Hemati
 - 👀 I’m interested in experiencing new code projects
-- 🌱 I’m currently apprenticeship in an IT company in Berlin, Germany
-- 💞️ I’m looking to collaborate on a new coding project
+- 🌱 I’m currently doing an apprenticeship in an IT company in Berlin, Germany
+- 💞️ I’m looking to collaborate on new coding projects
 - 📫 You can reach me by sending an email to r.hemati.business@gmail.com 
 
 <!---
